@@ -1,12 +1,12 @@
-# Book Recommendation System (Machine Learning)
+# Book Recommendation System
 
 ## 📌 Description
-A machine learning-based book recommendation system designed to suggest books based on user preferences using collaborative filtering.
+A machine learning-based system that recommends books based on user preferences using collaborative filtering techniques.
 
 ## 🚀 Features
 - Book similarity recommendations
 - User rating analysis
-- Data visualization (rating distribution, heatmaps)
+- Data visualization
 - Efficient recommendation generation
 
 ## 🛠 Technologies Used
@@ -16,17 +16,12 @@ A machine learning-based book recommendation system designed to suggest books ba
 - Matplotlib, Seaborn
 
 ## ⚙️ Model
-Implemented item-based collaborative filtering using cosine similarity on a user–book matrix to identify similar books and generate recommendations.
+Implemented item-based collaborative filtering using cosine similarity to identify similar books based on user rating patterns.
 
-## 📊 Workflow
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Similarity computation
-- Recommendation generation
+## 📂 Project Files [AIML mini project report.pdf](https://github.com/user-attachments/files/27369442/AIML.mini.project.report.pdf)
 
-## 📂 Project File [AIML mini project report.pdf](https://github.com/user-attachments/files/27368607/AIML.mini.project.report.pdf)
-
-- Book Recommendation System Report (PDF included)
+- Project Report (PDF)
+- Python implementation file
 
 ## 🎯 Outcome
-Demonstrates application of machine learning techniques to build a personalized recommendation system.
+Demonstrates the use of machine learning techniques to build a personalized recommendation system.
